@@ -14,10 +14,6 @@ public class RController {
 		return "hi";
 	}
 	
-	@GetMapping("/all")
-	public String GetAll()
-	{
-		return "all data";
-	}
+	
 	
 }
